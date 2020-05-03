@@ -1,0 +1,4 @@
+export const REQUEST_POSTS = 'reddit/REQUEST_POSTS'
+export const RECEIVE_POSTS = 'reddit/RECEIVE_POSTS'
+export const SELECT_SUBREDDIT = 'reddit/SELECT_SUBREDDIT'
+export const INVALIDATE_SUBREDDIT = 'reddit/INVALIDATE_SUBREDDIT'
